@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="title" content="Privacy Policy ">
+<meta name="DC.title" lang="en" content="Privacy Policy ">
 <meta name="description" content="">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -12,288 +12,114 @@
 <link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"><link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-.f9d9258e2bd924c1fe7a367c98270f4ad{
-font-size: 19.8px;
-font-weight: bold;
+<style type="text/css"> 
+.x26485fa2e5349782d180563a9ccb0de9{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
-.x4eb40eb643fed9ef285f32f96fd68f8a a{
-font-size:16px;
-}
-.wefe8e35eddcf23c61e0956c0cb99df3f *{
-color:#000000;
-}
-footer a{
-color:#fd834c;
-text-decoration: underline;
-}
-.y7656e6d27fc4fac2323d55750e1eb984{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd466 0%, #ffce60 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-.y4861f65c7317bfca11b4c00e525b7d33 i{
-border-radius: 50%;
-width: 37.5px;
-line-height: 35px;
-text-align: center;
-height: 37.5px;
-}
-.uc6d8924cde446a99a9c9baab51b12753{
-font-size:16px!important;
-color: #676767;
-}
-. a{
-color: white;
-}
-ul{
-text-decoration:none;display:inline-block;text-align:left
-}
-.bg-new{
-background: #fd834c;
-padding: 17px 40px;
-letter-spacing: 1px;
-border-radius: 100px;
-font-weight: 900;
-font-size: 16px;
-}
-.b8d9db01b04c85a468a1e0dc18f345bcd{
-font-size: 2rem !important;
-}
-.d24526fbe4c629c14b08c65c5bc60c482{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.x4eb40eb643fed9ef285f32f96fd68f8a{
-background:#ffffff;
-}
-.nav-link{
-color: #000000;
-
-}
-.v47a94e8fa059afd7a562b551d01470d6{
-font-size:45px!important;font-weight:600
-}
-.u726d924337f812d8df53796200837c48{
-text-decoration: underline!important;color:#ff8a20!important
-}
-footer *{
-font-size:16px !important;
-}
-.wc7b633be0f9ede7bfe285afe1f361441 *{
-color: white;
-}
-.wc9b828e69535291d420a4a02ed98d84f{
-width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
-}
-footer{
-background:#131313;
-color:#ffffff;
-}
-.nav-item{
-padding-left:7.8px;
-padding-right:8.3px;
-padding-top:4.6px;
-padding-bottom:4.8px;
-}
-.fc02752650efef4862e13098e8ba690f0:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important
-}
-body{
-color: #505050;
-}
-.yad33825948061a8012c45380c3aa93ef p,.yad33825948061a8012c45380c3aa93ef a,.yad33825948061a8012c45380c3aa93ef span,.yad33825948061a8012c45380c3aa93ef label{
-font-size:16px!important;
-}
-.x4eb40eb643fed9ef285f32f96fd68f8a p,.x4eb40eb643fed9ef285f32f96fd68f8a span,.x4eb40eb643fed9ef285f32f96fd68f8a label{
-font-size:16px!important;
-}
-.ef11abdec0df956d49a250747f8fde186{
-font-size: 14px;
-}
-.fc02752650efef4862e13098e8ba690f0{
-padding: 20px;
-background: #ffffff;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.t05b0040e34b445f43d97c47b07de4822{
-    background-color: transparent;
-font-size: 23.5px;
-height: 47.8px;
-min-width: 50px;
-padding: 0.7rem;
-padding-top: 12.7px;
-color: #ffffff !important;
-border: 1px solid #ffffff;
-border-radius: 25px;
-}
-.container{
-max-width:1300px
-}
-.c6cc323b4671ec8ace9c418e5041955d3{
-background:#eae8e4!important ;
-}
-.te3a71188004e72554bbe13f16fe55422{
-color: #474747;
-}
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
-}
-.navbar a{
-font-size: 16.5px!important;
-font-weight: normal;text-transform:uppercase
-}
-.f1808fd3094be6582250e51de4cb5792f{
-color: #fff;
-background-color: #ff8e59;
-border-color: #ff8a55;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+.af393460c0bda1b26c131b0656b11eeac{
+font-size:20px;
+padding:9.8px;
+color: black;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.wb47e3d6f468c0083b92186d437e66dcd:hover,.y7656e6d27fc4fac2323d55750e1eb984:hover{
-background-size: 100% 100% !important;
-background: #ffc658!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
+.af393460c0bda1b26c131b0656b11eeac i:hover{
+background: black;
+color:#ffd6da;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
 }
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
+footer a{
+color:  #ffffff!important;
+text-decoration: underline!important;
 }
-.c47a3d6ffb3c058ad852c44586b6a6abc{
-font-size:36px;font-weight:800
+footer ul{
+padding-left: 0px!important;
+list-style: none;
 }
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
+.ad1be65871dc3cb70efa356fbee503b4c{
+background: rgba(0,0,0,0.6);
+text-align: center;
 }
-a{
-text-decoration: none;
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #b6a0ff,#ff5d66);
+display: inline-block;
 }
-.f48b15660ee78273202492fe733ff79b6{
-color: #9d9d9d;
-font-size: 19.7px;
-margin-bottom: 20.8px;
+.nav-link{
+color: #080808 !important;
 }
-.x93eb543dd0dc69480ad20ea14a936856{
-transition: all 0.3s; 
+footer{
+padding-top:59.5px;
+padding-bottom:60.3px;
 }
-.yad33825948061a8012c45380c3aa93ef{
-background:#fbf9f5;
-color:#010101;
-}
-.x4eb40eb643fed9ef285f32f96fd68f8a *{
-color:#131313!important;
-}
-ul li a{
-color:#fd834c
-}
-iframe{
-border: none!important;
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-.fc02752650efef4862e13098e8ba690f0 > a:focus, .fc02752650efef4862e13098e8ba690f0 > a:hover{
-text-decoration: none;
-color: #078ca8;
+.ad1be65871dc3cb70efa356fbee503b4c *{
+color:white!important;
 }
 .btn-md{
-padding: 15.3px 29.8px;
+padding:14.6px 30px;
 border-radius: 0;
 }
-.fc02752650efef4862e13098e8ba690f0 > a{
-color:#000000;
+footer *{
+font-size:16px!important;
+color:#ffffff!important;
+line-height: 1.5;
 }
-.{
-font-size:14.6px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #535353;
+li a{
+color: #ff6069;
 }
-.fc02752650efef4862e13098e8ba690f0 > . > a{
-text-decoration: none;
+.cfaf08bc01cc89f977fa3ffd372e5145a:hover{
+background-size: 100% 100%!important;
+color:#ffffff!important;
+background:#ffc658!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
 }
-html{
-scroll-behavior: smooth;
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
 }
-.navbar{
-padding-top:42px;padding-bottom:42px;
+.c8b1c749e5766533ad6f535f58ca3d364{
+text-decoration: underline!important;
 }
-.ff228c7fb8d5146fa5252fd22c18f0573{
-color:#000000!important;
+.display-2{
+font-size: 45.5px;
 }
-.y4861f65c7317bfca11b4c00e525b7d33 i:hover{
-background: white;
-color: #ffffff;!important;
-line-height: 35px;
+.navbar a{
+font-size: 17.5px;
+}
+ul{
+list-style: circle;
+}
+a{
+text-decoration: none!important;
+}
+.nav-item{
+margin-top: 9.7px;
+margin-bottom: 10.2px;
+padding-left: 6.8px;
+padding-right: 7.4px;
+}
+.af393460c0bda1b26c131b0656b11eeac i{
 border-radius: 50%;
-width: 36.9px;
+width: 10mm;
 text-align: center;
-height: 37px;
+line-height: 37px;
+height: 10mm;
 }
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-h1{
-font-weight:900
-}
-.fc02752650efef4862e13098e8ba690f0 > a > .{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15.3px;
-}
-.b82e79ced110e8a79994cbf4a639c300a{
-font-weight:900;
-}
-    .dropdown-submenu {
+.dropdown-submenu {
     position: relative;
 }
 
@@ -407,38 +233,38 @@ font-weight:900;
     max-height: 60vh;          /* scroll if long */
     overflow-y: auto;
   }
-}
+} 
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg container navbar">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="index.html"  >
+
+<img alt="" src="img/logo.jpg"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav d-flex"><li class="nav-item">
-<a class="nav-link wb47e3d6f468c0083b92186d437e66dcd" href="index.html" >order sprouted coconut online</a>
-</li>
-<li class="nav-item">
-<a class="wb47e3d6f468c0083b92186d437e66dcd nav-link" href="sprouted-coconut-farm.html" >sprouted coconut farm</a>
-</li>
-<li class="nav-item">
-<a class="nav-link wb47e3d6f468c0083b92186d437e66dcd" href="sprouted-coconut-store.html" >sprouted coconut store</a>
-</li>
-<li class="nav-item">
-<a class="wb47e3d6f468c0083b92186d437e66dcd nav-link" href="sprouted-coconut-supplier.html" >sprouted coconut supplier</a>
-</li>
-<li class="dropdown nav-item">
-<a class="wb47e3d6f468c0083b92186d437e66dcd dropdown-toggle nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="order-sprouted-coconut.html"  >order sprouted coconut</a><a class="dropdown-item" href="sprouted-coconut-website.html"  >sprouted coconut website</a><a class="dropdown-item" href="farm-fresh-sprouted-coconut.html"  >farm fresh sprouted coconut</a><a class="dropdown-item" href="sprouted-coconut-shipping.html"  >sprouted coconut shipping</a><a class="dropdown-item" href="sprouted-coconut-shop.html"  >sprouted coconut shop</a><a class="dropdown-item" href="farm-to-door-sprouted-coconut.html"  >farm to door sprouted coconut</a></div>
-</li>
+<span class="navbar-toggler-icon fa fa-bars"></span>
+</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center ml-auto navbar-nav">
+<li class="nav-item"><a class="nav-link cfaf08bc01cc89f977fa3ffd372e5145a" href="index.html" >tropical sprouted coconut</a></li>
+<li class="nav-item"><a class="cfaf08bc01cc89f977fa3ffd372e5145a nav-link" href="vegan-sprouted-coconut.html"  >vegan sprouted coconut</a></li>
+<li class="nav-item"><a class="cfaf08bc01cc89f977fa3ffd372e5145a nav-link"  href="rare-sprouted-coconut.html"  >rare sprouted coconut</a></li>
+<li class="nav-item"><a class="nav-link cfaf08bc01cc89f977fa3ffd372e5145a" href="sweet-sprouted-coconut.html"  >sweet sprouted coconut</a></li>
+<li class="nav-item dropdown"><a class="nav-link cfaf08bc01cc89f977fa3ffd372e5145a  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="hand-selected-sprouted-coconut.html"  >hand selected sprouted coconut</a>
+<a class="dropdown-item" href="raw-sprouted-coconut.html"  >raw sprouted coconut</a>
+<a class="dropdown-item" href="whole-sprouted-coconut.html"  >whole sprouted coconut</a>
+<a class="dropdown-item" href="natural-sprouted-coconut.html"  >natural sprouted coconut</a>
+<a class="dropdown-item" href="sprouted-coconut-sponge.html"  >sprouted coconut sponge</a>
+<a class="dropdown-item" href="edible-sprouted-coconut.html"  >edible sprouted coconut</a>
+</div></li>
 </ul>
 </div>
 </nav>
-<section class="container" style="min-height: 80vh;margin-top: 70px">
+<div>
+<section class="container">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
@@ -497,23 +323,31 @@ This website is owned and published by:
 </br>
 </p>
 </section>
+</div> 
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3">
-<p>USEFUL LINKS</p>
-<p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="https://linktr.ee/Sproutedcoconut" rel="nofollow" target="_blank">sprouted coconut</a></p><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="tinyurl.com/sproutedcoconuts" rel="nofollow" target="_blank">sprouted coconuts</a></p><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="https://www.tiktok.com/@sproutedcoconut" rel="nofollow" target="_blank">sprouted coconut online</a></p><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="https://sproutedcoconut.blogspot.com/" rel="nofollow" target="_blank">buy sprouted coconut</a></p><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="https://medium.com/@sproutedcoconut" rel="nofollow" target="_blank">buy sprouted coconut online</a></p><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="https://sites.google.com/view/sprouted-coconut-/" rel="nofollow" target="_blank">sprouted coconut for sale</a></p>
-</div><div class="col-lg-3"><p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="wb47e3d6f468c0083b92186d437e66dcd" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-</p>
-</div><div class="col-lg-3">
+<div class="container">
+<div class="align-center justify-content-center row"><div class="col-md-3">
+<h3 class="font-weight-bold c247141bb379a1f92214583b3af9a6442">USEFUL LINKS</h3>
+<hr>
 <div>
-<p>Follow us</p>
-<a href="https://www.youtube.com/@Sprouted_Coconut" class="youtube y4861f65c7317bfca11b4c00e525b7d33" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<ul>
+<li><a href="https://linktr.ee/Sproutedcoconut" rel="nofollow" target="_blank">sprouted coconut</a></li><li><a href="tinyurl.com/sproutedcoconuts" rel="nofollow" target="_blank">sprouted coconuts</a></li><li><a href="https://www.tiktok.com/@sproutedcoconut" rel="nofollow" target="_blank">sprouted coconut online</a></li><li><a href="https://sproutedcoconut.blogspot.com/" rel="nofollow" target="_blank">buy sprouted coconut</a></li><li><a href="https://medium.com/@sproutedcoconut" rel="nofollow" target="_blank">buy sprouted coconut online</a></li><li><a class="cfaf08bc01cc89f977fa3ffd372e5145a" href="https://sites.google.com/view/sprouted-coconut-/" rel="nofollow" target="_blank">sprouted coconut for sale</a></li>
+</ul>
+</div>
+</div> 
+<div class="col-md-3">
+<ul>
+<li><a class="cfaf08bc01cc89f977fa3ffd372e5145a" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="cfaf08bc01cc89f977fa3ffd372e5145a" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li></ul></div></div><div class="col-md-3">
+<h3 class="font-weight-bold c247141bb379a1f92214583b3af9a6442">Connect</h3>
+<hr>
+<div class="social"><p class="sub">Follow us</p>
+<a href="https://www.youtube.com/@Sprouted_Coconut" class="af393460c0bda1b26c131b0656b11eeac youtube"   rel="nofollow"><i class="fa fa-youtube"></i></a>
 </div>
 </div></div>
+<hr>
 </div>
-</footer> 
-<script type="text/javascript">
+</footer><script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
@@ -535,7 +369,7 @@ var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
 dropdownMenu.addEventListener('click', handleClick);
 });
 });
-</script> 
+</script>
  <script>
 (function() {
   // Works with both BS4 (data-toggle events) and BS5
@@ -574,5 +408,6 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
+</footer>
 </body>
 </html>
